@@ -14,7 +14,6 @@ var c = 0;
 var timer = setInterval(function() {
 	window.scrollTo(0, document.body.scrollHeight);
 	var done = (window.innerHeight + window.pageYOffset) >= document.body.offsetHeight;
-	console.log(done);
 	if(done) {
 			c++;
 			if(c >= 50) {
