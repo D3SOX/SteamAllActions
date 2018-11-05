@@ -9,7 +9,7 @@ var clickEvent = new MouseEvent("click", {
 
 var c = 0;
 
-#maybe not the best way but it does it's job and works
+#maybe not the best way but it does the job and works.
 
 var timer = setInterval(function() {
 	window.scrollTo(0, document.body.scrollHeight);
