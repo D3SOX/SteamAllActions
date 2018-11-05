@@ -1,5 +1,8 @@
 # SteamAllActions
-Do some things for all elements for your steam account
+Do some things for all elements for your steam account.
+
+# How to use?
+Just to to the specific page given in the top most line in the script, open dev tools (CTRL + SHIFT + J or F12 in most browsers) and paste the code in the console.
 
 # Current Functions
 unfollow.js - For unfollowing all games
